@@ -1,0 +1,324 @@
+.about-us-laptop,
+.about-us-laptop * {
+  box-sizing: border-box;
+}
+.about-us-laptop {
+  background: #ffffff;
+  height: 2804px;
+  position: relative;
+  overflow-y: auto;
+}
+.rectangle-2 {
+  background: rgba(58, 90, 64, 0.66);
+  width: 1689px;
+  height: 167px;
+  position: absolute;
+  left: -35px;
+  top: 0px;
+}
+.rectangle-3 {
+  background: rgba(58, 90, 64, 0.66);
+  width: 1654px;
+  height: 1100px;
+  position: absolute;
+  left: 0px;
+  top: 492px;
+}
+.image {
+  width: 1654px;
+  height: 325px;
+  position: absolute;
+  left: 0px;
+  top: 167px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: rgba(58, 90, 64, 0.53);
+  width: 708px;
+  height: 142px;
+  position: absolute;
+  left: 479px;
+  top: 258px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.about-us {
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 619px;
+  top: 294px;
+  width: 389px;
+  height: 71px;
+}
+.about-us-span {
+  color: #000000;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+}
+.about-us-span2 {
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+}
+.plantophilic {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 96px;
+  font-weight: 700;
+  position: absolute;
+  left: 12px;
+  top: 1288.04px;
+  width: 718.04px;
+  height: 20.16px;
+  transform-origin: 0 0;
+  transform: rotate(-89.942deg) scale(1, 1);
+}
+.rectangle-10 {
+  width: 1678px;
+  height: 1212px;
+  position: absolute;
+  left: -13px;
+  top: 1592px;
+  overflow: visible;
+}
+.image2 {
+  width: 588px;
+  height: 284px;
+  position: absolute;
+  left: 1020px;
+  top: 544px;
+  overflow: visible;
+  object-fit: cover;
+}
+.plantss {
+  width: 588px;
+  height: 334px;
+  position: absolute;
+  left: 1022px;
+  top: 1183px;
+  object-fit: cover;
+}
+.image3 {
+  width: 583px;
+  height: 289px;
+  position: absolute;
+  left: 1022px;
+  top: 863px;
+  object-fit: cover;
+}
+.flower {
+  width: 702px;
+  height: 434px;
+  position: absolute;
+  left: 70px;
+  top: 1638px;
+  object-fit: cover;
+}
+.purpose-our-purpose-is-to-ensure-our-clients-success-and-satisfaction-by-providing-innovative-solutions-and-exceptional-service-join-us-on-this-journey-and-experience-the-difference-company-name-can-make-for-your-business {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 810px;
+  top: 1638px;
+  width: 780px;
+  height: 434px;
+}
+.purpose-our-purpose-is-to-ensure-our-clients-success-and-satisfaction-by-providing-innovative-solutions-and-exceptional-service-join-us-on-this-journey-and-experience-the-difference-company-name-can-make-for-your-business-span {
+  color: #000000;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.purpose-our-purpose-is-to-ensure-our-clients-success-and-satisfaction-by-providing-innovative-solutions-and-exceptional-service-join-us-on-this-journey-and-experience-the-difference-company-name-can-make-for-your-business-span2 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.about-us-welcome-to-plantophilic-where-innovation-meets-excellence-we-are-dedicated-to-delivering-top-notch-products-and-services-that-cater-to-the-evolving-needs-of-our-clients-ensuring-their-utmost-satisfaction-and-success {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 153px;
+  top: 544px;
+  width: 809px;
+  height: 284px;
+}
+.about-us-welcome-to-plantophilic-where-innovation-meets-excellence-we-are-dedicated-to-delivering-top-notch-products-and-services-that-cater-to-the-evolving-needs-of-our-clients-ensuring-their-utmost-satisfaction-and-success-span {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.about-us-welcome-to-plantophilic-where-innovation-meets-excellence-we-are-dedicated-to-delivering-top-notch-products-and-services-that-cater-to-the-evolving-needs-of-our-clients-ensuring-their-utmost-satisfaction-and-success-span2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.our-mission-our-mission-is-to-empower-businesses-and-reach-new-heights-by-offering-cutting-edge-solutions-tailored-to-their-unique-requirements-we-believe-in-building-lasting-relationships-with-our-customers-driving-their-growth-and-contributing-to-their-success-in-every-possible-way {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 850px;
+  width: 843px;
+  height: 336px;
+}
+.our-mission-our-mission-is-to-empower-businesses-and-reach-new-heights-by-offering-cutting-edge-solutions-tailored-to-their-unique-requirements-we-believe-in-building-lasting-relationships-with-our-customers-driving-their-growth-and-contributing-to-their-success-in-every-possible-way-span {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.our-mission-our-mission-is-to-empower-businesses-and-reach-new-heights-by-offering-cutting-edge-solutions-tailored-to-their-unique-requirements-we-believe-in-building-lasting-relationships-with-our-customers-driving-their-growth-and-contributing-to-their-success-in-every-possible-way-span2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.why-us-by-choosing-plantophilic-you-are-partnering-with-a-dedicated-team-of-professionals-committed-to-providing-unmatched-quality-reliability-and-customer-service-we-are-passionate-about-delivering-excellence-and-going-above-and-beyond-to-meet-your-expectations {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 167px;
+  top: 1208px;
+  width: 853px;
+  height: 334px;
+}
+.why-us-by-choosing-plantophilic-you-are-partnering-with-a-dedicated-team-of-professionals-committed-to-providing-unmatched-quality-reliability-and-customer-service-we-are-passionate-about-delivering-excellence-and-going-above-and-beyond-to-meet-your-expectations-span {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.why-us-by-choosing-plantophilic-you-are-partnering-with-a-dedicated-team-of-professionals-committed-to-providing-unmatched-quality-reliability-and-customer-service-we-are-passionate-about-delivering-excellence-and-going-above-and-beyond-to-meet-your-expectations-span2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 153px;
+  top: 52px;
+  width: 135px;
+  height: 47px;
+}
+.encyclopedia {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 479px;
+  top: 49px;
+  width: 293px;
+  height: 38px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 1217px;
+  top: 48px;
+  width: 243px;
+  height: 41px;
+}
+.about-us2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 896px;
+  top: 48px;
+  width: 197px;
+  height: 35px;
+}
+.images {
+  width: 1514px;
+  height: 522px;
+  position: absolute;
+  left: 70px;
+  top: 2188px;
+  object-fit: cover;
+}
+.rectangle-16 {
+  background: rgba(31, 67, 51, 0);
+  width: 1237px;
+  height: 511px;
+  position: absolute;
+  left: 0px;
+  top: 1438px;
+}
+.rectangle-21 {
+  background: rgba(58, 90, 64, 0.65);
+  width: 1292px;
+  height: 370px;
+  position: absolute;
+  left: 187px;
+  top: 2231px;
+}
+.it-all-begins-with-an-idea-maybe-you-want-to-launch-a-business-maybe-you-want-to-turn-a-hobby-into-something-more {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -939px);
+  width: 1049px;
+}
+.rectangle-32 {
+  background: rgba(54, 129, 68, 0.18);
+  width: 583px;
+  height: 287px;
+  position: absolute;
+  left: 1027px;
+  top: 863px;
+}
+.rectangle-33 {
+  background: rgba(88, 147, 74, 0.28);
+  width: 583px;
+  height: 334px;
+  position: absolute;
+  left: 1027px;
+  top: 1183px;
+}
+.rectangle-31 {
+  background: rgba(97, 142, 52, 0.25);
+  width: 591px;
+  height: 284px;
+  position: absolute;
+  left: 1020px;
+  top: 544px;
+}
